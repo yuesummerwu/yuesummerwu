@@ -9,7 +9,7 @@
   
 - 🇨🇳 I am from Luoyang City, China.
 
-- 🙊 I speak Mandarin, English, and a bit French, and Korean is on my to-learn list.
+- 🙊 I speak Mandarin, English, and a bit French.
 
 - ⚡ A fun fact about me is I have relative pitch!
 
