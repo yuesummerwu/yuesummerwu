@@ -32,7 +32,7 @@ Equity is at the core of my beliefs. I see it as not just an ideal but a shared 
 
 <h3 align="left">Me on Github 👩‍💻</h3>
 
-I am deeply fascinated by the concept of open data science GitHub has been an invaluable resource for me, and I aspire to contribute back by sharing my learning materials and code.Data cleaning and engineering are some of the most intensive yet rewarding parts of data science, and I’ve learned so much from exploring the work of others. While my code is still at a beginner level, I’m excited to share it as a way to connect with experts, gain hands-on experience, and encourage other novices to take their first step into the field.
+I am deeply fascinated by the concept of open data science GitHub has been an invaluable resource for me, and I aspire to contribute back by sharing my learning materials and code. Data cleaning and engineering are some of the most intensive yet rewarding parts of data science, and I’ve learned so much from exploring the work of others. While my code is still at a beginner level, I’m excited to share it as a way to connect with experts, gain hands-on experience, and encourage other novices to take their first step into the field.
 
 In short, GitHub is where I learn, grow, and contribute to the open data science community. It is also a platform to track my progress and document my learning journey. 🌟
 
