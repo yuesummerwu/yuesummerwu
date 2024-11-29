@@ -25,7 +25,8 @@ Equity is at the core of my beliefs. I see it as not just an ideal but a shared 
 
 <h3 align="left">My Updates 🎓</h3>
 
-- I am working as a graduate research assistant at [ELDA Research Group](https://www.tc.columbia.edu/elda/) at Teachers College, Columbia University. 
+- I am working as a graduate research assistant in [ELDA Research Group](https://www.tc.columbia.edu/elda/) at Teachers College, Columbia University.
+- I also work as research assistant in [AEQUITAS Lab](https://aequitas-lab.github.io/) at Teachers College, Columbia University.
 - I will graduate from my current program in May.
 - I am currently applying to PhD programs.
 
